@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: XL-SPACESHIP
+server:  port: 8080
+logging:
+  file: logs/SpaceShip.log  
+  level:
+    root: INFO
